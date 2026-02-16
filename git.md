@@ -1,5 +1,3 @@
-# Git explicado facil, en Markdown
-
 ## 1 Repositorio en Git y diferencia con un proyecto normal
 Un repositorio es una carpeta del proyecto, mas un registro de cambios, ese registro permite ver versiones, volver atras, y trabajar en equipo  
 Un proyecto normal es solo la carpeta con archivos, sin ese registro  
@@ -141,10 +139,3 @@ Ver un commit en detalle
 
 Ver quien toco lineas  
 - git blame archivo
-
-## Recomendaciones finales
-Usa mensajes cortos y claros en tus commits, que hiciste y por que  
-Trabaja con ramas para mantener orden  
-Si quieres mirar antes de mezclar usa fetch, si ya quieres integrar usa pull  
-Antes de borrar cambios revisa con git status y git diff
-
